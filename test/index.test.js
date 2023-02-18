@@ -66,7 +66,7 @@ describe("dropsuit-dnkscr", () => {
     it("should return the derivative nouns root keys score with 'dnkscr_sync' function", () => {
       async function callFunctionAsync() {
         try {
-          let dnkscr_output = await dsdnkscr.dnkscr(input2, 1, 0);
+          let dnkscr_output = await dsdnkscr.dnkscr_async(input2, 1, 0);
           /// let dnkscr_output = dsdnkscr.dnkscr(null, 1, 0).score();
           /// console.log("\n\ndnkscr output:", dnkscr_output);
         } catch (error) {
