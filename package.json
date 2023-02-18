@@ -1,6 +1,6 @@
 {
   "name": "dropsuit-dnkscr",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "DropSuit NLP - dnkscr function: A JavaScript and Node.js library for extracting derivative nouns from input and returns the count of scores for each root key",
   "main": "index.js",
   "scripts": {
