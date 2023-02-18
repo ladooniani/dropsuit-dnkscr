@@ -1,0 +1,32 @@
+{
+  "name": "dropsuit-dnkscr",
+  "version": "1.0.1",
+  "description": "DropSuit NLP - dnkscr function: A JavaScript and Node.js library for extracting derivative nouns from input and returns the count of scores for each root key",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ladooniani/dropsuit-dnkscr.git"
+  },
+  "keywords": [
+    "derivative noun extraction",
+    "json processing",
+    "nlp"
+  ],
+  "author": "Lado Oniani",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/ladooniani/dropsuit-dnkscr/issues"
+  },
+  "homepage": "https://github.com/ladooniani/dropsuit-dnkscr#readme",
+  "dependencies": {
+    "dropsuit-clnarr": "^1.0.7",
+    "dropsuit-clnstr": "^1.0.11",
+    "dropsuit-dersnt": "^1.0.5"
+  },
+  "devDependencies": {
+    "mocha": "^10.2.0"
+  }
+}

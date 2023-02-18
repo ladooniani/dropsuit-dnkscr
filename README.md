@@ -188,5 +188,3 @@ Your support is crucial for the library's success. You can also contribute to th
 ## License
 
 [Apache License 2.0](LICENSE.txt)
-#   t e s t t  
- 
